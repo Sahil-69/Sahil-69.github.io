@@ -764,10 +764,12 @@ left:10%;
   .work .desc h3 {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    color:white;
   }
   .work .desc span {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    color:white;
   }
 }
 .work:hover .desc {
